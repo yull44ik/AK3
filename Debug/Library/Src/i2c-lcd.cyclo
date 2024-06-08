@@ -1,0 +1,8 @@
+../Library/Src/i2c-lcd.c:4:6:lcd_send_cmd	1
+../Library/Src/i2c-lcd.c:17:6:lcd_send_data	1
+../Library/Src/i2c-lcd.c:31:6:lcd_clear	1
+../Library/Src/i2c-lcd.c:37:6:lcd_put_cur	3
+../Library/Src/i2c-lcd.c:53:6:lcd_init	1
+../Library/Src/i2c-lcd.c:79:6:lcd_send_string	2
+../Library/Src/i2c-lcd.c:84:6:Display_Temp	1
+../Library/Src/i2c-lcd.c:97:6:Display_Rh	1

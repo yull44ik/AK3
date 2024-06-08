@@ -1,0 +1,2 @@
+../Library/Src/i2c_lcd_driver.c:4:6:i2c_port_init	4	static
+../Library/Src/i2c_lcd_driver.c:29:6:i2c_WriteBytes	24	static
